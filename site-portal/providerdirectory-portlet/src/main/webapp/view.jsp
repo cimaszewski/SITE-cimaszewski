@@ -39,7 +39,7 @@
 		<li>Import the test data provided following <a href="https://github.com/siteadmin/pdti" tabindex="1">these instructions</a><span class="inline-ext"><a class="ext-icon" href="http://www.hhs.gov/disclaimer.html" tabindex="1" target="_blank" title="Web Site Disclaimers"><span class="hiddenText">Web Site Disclaimers</span></a></span>.</li>
 		
 		<li>Once the data is imported into the directory, enter your WSDL below.</li>
-		<li>Specify you based DN</li>
+		<li>Specify your based DN</li>
 		<li>Select the test case and execute</li>
 	</ol>
      
